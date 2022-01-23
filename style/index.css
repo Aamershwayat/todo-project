@@ -1,0 +1,40 @@
+header {background-color: aliceblue;}
+
+b {
+    margin-left: 30px;
+}
+
+ul {
+    display: inline-block;
+    margin-left: 300px;
+    width: 100px;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    margin: 0 auto;
+    margin-top: 150px;
+    width: 50%;
+    text-align: center;
+}
+
+footer {position: absolute;text-align: center;width: 100%;bottom: 0;background-color: beige;}
+
+
+
+thead {
+    background-color: gray;
+    color: white;
+}
+
+tbody {
+    background-color: aliceblue;
+}

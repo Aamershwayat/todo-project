@@ -1,0 +1,36 @@
+header {background-color: aliceblue;}
+b {
+    margin-left: 30px;
+}
+
+ul {
+    display: inline-block;
+    margin-left: 300px;
+    width: 100px;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+footer {position: absolute;text-align: center;width: 100%;bottom: 0;background-color: beige;}
+div#the_name_of {
+    margin-top: 50px;
+    text-align: center;
+    background-color: darkslategrey;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div#name_description {
+    display: inline-block;
+    margin-left: 60px;
+}
+form {
+    text-align: center;
+    margin-top: 40px;
+}
