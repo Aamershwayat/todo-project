@@ -20,14 +20,14 @@ confirm(`welcom $ {yourName}/n press yes to move the wecoming message`);
 
 var nickName = "Mr" ;
 var errorMsg = "" ; 
-gender.tolowercase() === "male" ?
+gender.toLowerCase() === "male" ?
 nickName :
 ( nickName = "Mr")  ;
 
-gender.tolowercase() === "female" ?
+gender.toLowerCase() === "female" ?
 nickName = "Mrs" :
-(erorrMsg = "you entered answer wrong ")
+errorMsg = "you entered answer wrong "
 
-erorrMsg != "again" ?
+errorMsg != "again" ?
 alert (`welcom ${yourName}`) :
 alert (`welcom again ${nickName} ${yourName}`) ;
