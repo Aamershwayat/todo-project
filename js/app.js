@@ -16,7 +16,7 @@ var age = prompt ("How old are you?")
 if (age <=0)
 {age = prompt ("How old are you, please venter a valid age?")}
 console.log ("age", age) ;
-confirm(`welcom $ {yourName}/n press yes to move the wecoming message`);
+confirm(`welcom ${yourName}/n press yes to move the welcoming message`);
 
 var nickName = "Mr" ;
 var errorMsg = "" ; 
